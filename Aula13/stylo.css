@@ -1,0 +1,57 @@
+*{
+    text-decoration: none;
+}
+
+
+.cabeca {
+
+height: px;
+display: flex;
+gap: 40px;
+justify-content: end;
+font-family: Arial, Helvetica, sans-serif;
+}
+.red{
+    list-style-type: none;
+
+}
+.imagem{
+    text-align: center;
+
+}
+.meto{
+    text-align: center;
+}
+.mere{
+
+    text-align: center;
+}
+.more {
+    color: #ee24ff;
+}
+.bule{
+
+     
+    border: 1px solid #ee24ff; 
+    margin: 0px auto 8px;
+    width: 1000px;
+
+}
+.bololo{
+    text-align:  center;
+   
+
+    text-align: center;
+margin-left: 28px;
+}
+.corpe{
+     text-align: center;
+     margin: 0px auto 55px;
+     width: 1000px;
+     padding-top: 65px;
+     font-size: 15px;
+     line-height: 22px ;
+     color: #828282;
+}
+
+

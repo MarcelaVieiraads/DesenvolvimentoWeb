@@ -1,0 +1,14 @@
+1- o que significa HTML e qual é o seu papel na web?
+R= É uma linguagem de marcação baseada em hipertexto, com ele podemos escrever documentos que serão  acessados pelo navegador.
+
+2- Liste três elementos HTML de nível de bloco e explique sua função.
+R= h1 , h6 , p ,São elementos que ocupão o espaço horizontal e empurra  todo os elementos subsequente para baixo .
+
+3- Liste três elemntos HTML de nível de linha e explique sua função .
+R= button , img  , stong  são elemntos que oculpa apenas  o espaço necesário.
+
+4- o que significa  CSS e qual é a sua função na web?
+R= É uma linguagem de estilo  que descreve como é o HTML como se fosse uma maquiagem para o HTML.
+
+5- O que é um seletor em CSS? cite os três exemplos de seletores.
+R= É o elemento HTMl que você quer aplicar o estilo, por Id ,class ,i 
